@@ -1,4 +1,6 @@
-siteName: Default Web Site
+siteName: Micros
 https,All Unassigned,10,aeeewaisdevtest.example.com
 http,All Unassigned,12,mughasdsdltestdev.example.com
 https,All Unassigned,13,umairdesdsdvtestlhr.example.com
+https,All Unassigned,14,usdvtestlhr.example.com
+https,All Unassigned,15,umaidvtestlhr.example.com

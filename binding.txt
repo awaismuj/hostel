@@ -1,2 +1,2 @@
-http,All Unassigned,80,333333333333333333.devtest.com
+https,All Unassigned,80,usmanusman.devtest.com
 

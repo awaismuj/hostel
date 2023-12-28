@@ -1,2 +1,4 @@
-https,All Unassigned,80,usmanusman.devtest.com
-
+siteName: Micros
+https,All Unassigned,443,site1.example.com
+http,All Unassigned,80,site2.example.com
+https,All Unassigned,443,site3.example.com

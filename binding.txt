@@ -1,4 +1,4 @@
 siteName: Micros
-https,All Unassigned,80,wevdevsite1.example.com
-http,All Unassigned,80,wevdevsite2.example.com
-https,All Unassigned,80,webdevsite3.example.com
+https,All Unassigned,80,1wevdevsite1.example.com
+http,All Unassigned,80,2wevdevsite2.example.com
+https,All Unassigned,80,3webdevsite3.example.com

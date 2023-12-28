@@ -1,4 +1,4 @@
 siteName: Micros
-https,All Unassigned,80,awaisdevtest.example.com
-http,All Unassigned,80,mughaltestdev.example.com
-https,All Unassigned,80,umairdevtestlhr.example.com
+https,All Unassigned,1,awaisdevtest.example.com
+http,All Unassigned,2,mughaltestdev.example.com
+https,All Unassigned,3,umairdevtestlhr.example.com

@@ -1,5 +1,2 @@
-http,All Unassigned,80,dev.devtest.com
-http,All Unassigned,80,dev1.devtest.com
-http,All Unassigned,80,Dev4.devtest.com
-http,All Unassigned,80,Dev5.devtest.com
-http,All Unassigned,80,Dev6.devtest.com
+http,All Unassigned,80,333333333333333333.devtest.com
+
